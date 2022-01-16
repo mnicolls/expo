@@ -36,7 +36,7 @@ Note that FCM is not currently available for Expo iOS apps.
       {
         "api_key": [
           {
-            "current_key" "<your Google Cloud Platform API key>",
+            "current_key" "<your Google Cloud Platform API key>"
           }
         ],
       }
